@@ -4,9 +4,11 @@
     "la toile"
   ],
   "section": "la toile",
+  "eyebrow": "Adapter le Web",
   "resources": [
     {
-      "title": "web.dev"
+      "title": "web.dev",
+      "url": "https://web.dev/"
     },
     {
       "title": "Développeur Chrome",
