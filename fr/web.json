@@ -1,0 +1,16 @@
+{
+  "layout": "détail technique",
+  "tags": [
+    "la toile"
+  ],
+  "section": "la toile",
+  "resources": [
+    {
+      "title": "web.dev"
+    },
+    {
+      "title": "Développeur Chrome",
+      "url": "https://developer.chrome.com/"
+    }
+  ]
+}
